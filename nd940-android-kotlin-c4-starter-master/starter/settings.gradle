@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+=======
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+>>>>>>> a2f1b96 (update project with testing)
+include ':app'
+rootProject.name='Project4'

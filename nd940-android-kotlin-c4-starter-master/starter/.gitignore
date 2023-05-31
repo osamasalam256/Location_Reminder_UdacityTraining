@@ -1,0 +1,18 @@
+*.iml
+.gradle
+<<<<<<< HEAD
+/local.properties
+=======
+local.properties
+>>>>>>> a2f1b96 (update project with testing)
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
